@@ -1,0 +1,24 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+.form{
+  margin: 10px 0px;
+  display: flex;
+  justify-content: center;
+}
+.data{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 14px;
+  width: 100vw;
+}
+
+.data_val{
+  display: flex;
+  justify-content: space-between;
+  width: 60%;
+  padding: 20px 9px;
+  box-shadow: rgba(100 , 100 , 111 , 0.2)0px 7px 29px 0px;
+}

@@ -1,0 +1,23 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.main{
+    border: 1px solid black;
+    display: block;
+    margin: 10vh auto;
+    padding: 20px;
+    width: 50vw;
+}
+.heading{
+    text-align: center;
+    font-size: 5rem;
+}
+.btn{
+    box-sizing: border-box;
+    padding: 20px;
+    width: 50%;
+    background-color: rgb(255, 42, 191);
+    border-radius: 20px;
+}
